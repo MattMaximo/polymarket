@@ -10,7 +10,7 @@ You can install the Polymarket Data Fetcher using pip:
 Here's a basic example of how to use the Polymarket Data Fetcher:
 
 ```python
-from polymarket_data_fetcher import PolymarketDataFetcher
+from Polymarket import PolymarketDataFetcher
 
 # Initialize the fetcher
 pm = PolymarketDataFetcher()
